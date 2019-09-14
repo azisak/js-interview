@@ -1,0 +1,14 @@
+{
+  "name": "js-interview-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/azisak/js-interview",
+  "author": "Azis Adi Kuncoro <azisadikuncoro@gmail.com>",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "license": "MIT"
+}
